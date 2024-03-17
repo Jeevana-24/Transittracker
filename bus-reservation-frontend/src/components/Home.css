@@ -1,0 +1,17 @@
+/* Home.css */
+.home-container {
+    padding: 20px;
+    background-color: #f0f8ff; /* Light blue background */
+    text-align: center;
+  }
+  
+  .home-heading {
+    color: #007bff; /* Blue color for the heading */
+    margin-bottom: 20px;
+  }
+  
+  .home-text {
+    color: #333; /* Dark grey color for the text */
+    font-size: 18px;
+  }
+  
